@@ -2,9 +2,9 @@
 A full stack development project
 
 >[!IMPORTANT]
->##Setup instructions
->Download dependencies by running `npm install`
->Start up the app using `npm start`
+>Setup instructions.
+ -Download dependencies by running `npm install`
+ -Start up the app using `npm start`
 
 
 **CRUD operation**
